@@ -1,3 +1,10 @@
+# Intellij
+.idea
+*.iml
+
+# Serenity
+target
+
 # Compiled class file
 *.class
 
