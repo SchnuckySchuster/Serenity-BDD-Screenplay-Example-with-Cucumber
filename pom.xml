@@ -21,11 +21,11 @@
     </properties>
 
     <dependencies>
-        <dependency>
+        <!-- <dependency>
             <groupId>net.serenity-bdd</groupId>
             <artifactId>serenity-shutterbug1x</artifactId>
             <version>${serenity.version}</version>
-        </dependency>
+        </dependency> -->
        <!-- <dependency>
            <groupId>net.serenity-bdd</groupId>
             <artifactId>serenity-shutterbug</artifactId>
